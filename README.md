@@ -1,2 +1,0 @@
-# vaultvelocityauto
-Vault Velocity Auto
